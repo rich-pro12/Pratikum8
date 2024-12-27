@@ -30,7 +30,7 @@ Penjelasan Flowchart (Mulai Program): Titik awal dari program.
 
 # Penjelasan Program
 1. fungsi class
-![foto]()
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/9fc05550f83dc6bf197489f639655d8e8d0f2a01/Screenshot%202024-12-27%20170256.png)
 Kelas ini memiliki atribut daftar_mahasiswa, yang merupakan daftar untuk menyimpan data mahasiswa. Metode tambah, tampilkan, hapus, dan ubah digunakan untuk mengelola data mahasiswa.
 
 2.fungsi init
