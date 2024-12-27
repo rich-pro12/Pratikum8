@@ -42,7 +42,9 @@ Kelas ini memiliki atribut daftar_mahasiswa, yang merupakan daftar untuk menyimp
 Konstruktor: Metode init adalah konstruktor yang dipanggil saat objek dari kelas Mahasiswa dibuat. Atribut daftar_mahasiswa: Atribut ini adalah list kosong yang akan digunakan untuk menyimpan data mahasiswa dalam bentuk dictionary, di mana setiap dictionary berisi nama dan nilai.
 
 3.Fungsi tambah(nama, nilai):
-![foto]()
+
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/5bca65d949df03d327ae2c02d80a79a70bd4b610/3.%20Fungsi%20Tambahan%20nama%20.jpg)
+
 Fungsi ini digunakan untuk menambahkan data mahasiswa ke dalam list mahasiswa. Data yang ditambahkan adalah nama dan nilai mahasiswa. Setelah menambahkan data, fungsi ini akan mencetak pesan konfirmasi.
 
 4.Fungsi tampilkan():
