@@ -65,8 +65,10 @@ Fungsi ini digunakan untuk menghapus data mahasiswa berdasarkan nama. Fungsi ini
 
 Fungsi ini digunakan untuk mengubah nilai mahasiswa berdasarkan nama. Fungsi ini mencari mahasiswa dengan nama yang diberikan dan mengubah nilai mereka jika ditemukan. Jika nama tidak ditemukan, fungsi ini akan mencetak pesan bahwa data mahasiswa tidak ditemukan.
 
-7.Bagian if name == "main"::
-![foto]()
+7.Bagian if name == "main": :
+
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/80b0c5dbccd01643d47b373321ad71569b425ef6/7.%20Bagian%20if%20name%20.png)
+
 Bagian ini adalah loop utama yang akan terus berjalan hingga pengguna memilih untuk keluar. Menampilkan menu pilihan kepada pengguna untuk memilih operasi yang diinginkan. Mengambil input dari pengguna dan memanggil fungsi yang sesuai berdasarkan pilihan pengguna.
 
 # Hasil Program 
