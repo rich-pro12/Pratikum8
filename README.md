@@ -72,5 +72,6 @@ Fungsi ini digunakan untuk mengubah nilai mahasiswa berdasarkan nama. Fungsi ini
 Bagian ini adalah loop utama yang akan terus berjalan hingga pengguna memilih untuk keluar. Menampilkan menu pilihan kepada pengguna untuk memilih operasi yang diinginkan. Mengambil input dari pengguna dan memanggil fungsi yang sesuai berdasarkan pilihan pengguna.
 
 # Hasil Program 
-![foto]()
+
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/b8796f3059bf55601cca3ead35e98e19fa12a8bc/Hasil%20pemrog.jpg)
 
