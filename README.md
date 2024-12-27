@@ -60,7 +60,9 @@ Fungsi ini menampilkan semua data mahasiswa dalam format tabel. Jika tidak ada d
 Fungsi ini digunakan untuk menghapus data mahasiswa berdasarkan nama. Fungsi ini akan menyaring list mahasiswa untuk menghapus entri yang memiliki nama yang sesuai. Setelah menghapus data, fungsi ini mencetak pesan konfirmasi.
 
 6.Fungsi ubah(nama, nilai_baru):
-![foto]()
+
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/93daa7f89c9c9d26ad698861af968a8b9e7bb607/6.Fungsi%20Ubah.png)
+
 Fungsi ini digunakan untuk mengubah nilai mahasiswa berdasarkan nama. Fungsi ini mencari mahasiswa dengan nama yang diberikan dan mengubah nilai mereka jika ditemukan. Jika nama tidak ditemukan, fungsi ini akan mencetak pesan bahwa data mahasiswa tidak ditemukan.
 
 7.Bagian if name == "main"::
