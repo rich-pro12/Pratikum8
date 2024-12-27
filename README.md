@@ -5,10 +5,8 @@ KELAS : TI.24.A.5
 
 NIM : 312410451
 
-![foto]()
-
 # Flowchart 
-![foto]()
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/91154b47e11b9ab161dbe63a8a7aa93afb904900/Screenshot%202024-12-27%20165849%20.png)
 
 Penjelasan Flowchart (Mulai Program): Titik awal dari program.
 
