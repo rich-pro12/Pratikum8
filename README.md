@@ -54,7 +54,9 @@ Fungsi ini digunakan untuk menambahkan data mahasiswa ke dalam list mahasiswa. D
 Fungsi ini menampilkan semua data mahasiswa dalam format tabel. Jika tidak ada data mahasiswa, fungsi ini akan mencetak pesan bahwa tidak ada data yang tersedia. Jika ada data, fungsi ini mencetak tabel dengan nama dan nilai mahasiswa.
 
 5.Fungsi hapus(nama):
-![foto]()
+
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/747e3a0e1637c38bb991721d78a53eadbedb3ca7/5.%20Fungsi%20Hapus.png)
+
 Fungsi ini digunakan untuk menghapus data mahasiswa berdasarkan nama. Fungsi ini akan menyaring list mahasiswa untuk menghapus entri yang memiliki nama yang sesuai. Setelah menghapus data, fungsi ini mencetak pesan konfirmasi.
 
 6.Fungsi ubah(nama, nilai_baru):
