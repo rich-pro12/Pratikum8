@@ -4,6 +4,8 @@ NAMA : Richie Pranata
 KELAS : TI.24.A.5 
 
 NIM : 312410451
+# Diagram Class
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/7e4c46996be59e801118adadbe38e9ee45590fdd/Screenshot%202024-12-27%20163248.png)
 
 # Flowchart 
 ![foto](https://raw.githubusercontent.com/rich-pro12/foto1/91154b47e11b9ab161dbe63a8a7aa93afb904900/Screenshot%202024-12-27%20165849%20.png)
