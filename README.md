@@ -35,8 +35,10 @@ Penjelasan Flowchart (Mulai Program): Titik awal dari program.
 
 Kelas ini memiliki atribut daftar_mahasiswa, yang merupakan daftar untuk menyimpan data mahasiswa. Metode tambah, tampilkan, hapus, dan ubah digunakan untuk mengelola data mahasiswa.
 
-2.fungsi init
-![foto]()
+2.fungsi unit
+
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/1213603d7675dec44852d9e222d4349b8872f35b/2.%20Fungsi%20Unit%20.png)
+
 Konstruktor: Metode init adalah konstruktor yang dipanggil saat objek dari kelas Mahasiswa dibuat. Atribut daftar_mahasiswa: Atribut ini adalah list kosong yang akan digunakan untuk menyimpan data mahasiswa dalam bentuk dictionary, di mana setiap dictionary berisi nama dan nilai.
 
 3.Fungsi tambah(nama, nilai):
