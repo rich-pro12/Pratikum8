@@ -48,7 +48,9 @@ Konstruktor: Metode init adalah konstruktor yang dipanggil saat objek dari kelas
 Fungsi ini digunakan untuk menambahkan data mahasiswa ke dalam list mahasiswa. Data yang ditambahkan adalah nama dan nilai mahasiswa. Setelah menambahkan data, fungsi ini akan mencetak pesan konfirmasi.
 
 4.Fungsi tampilkan():
-![foto]()
+
+![foto](https://raw.githubusercontent.com/rich-pro12/foto1/87fe6b7c30a9858c61b53871b0bfd259e08bbc68/4.%20Fungsi%20Tampilkan.png)
+
 Fungsi ini menampilkan semua data mahasiswa dalam format tabel. Jika tidak ada data mahasiswa, fungsi ini akan mencetak pesan bahwa tidak ada data yang tersedia. Jika ada data, fungsi ini mencetak tabel dengan nama dan nilai mahasiswa.
 
 5.Fungsi hapus(nama):
